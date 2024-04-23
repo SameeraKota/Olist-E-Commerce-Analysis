@@ -2,6 +2,9 @@
 
 Thrilled to share insights from our recent team project at ExcelR, where we delved into the world of e-commerce data with OLIST STORE headquartered in Sao Paulo, Brazil.
 
+[Excel Dashboard](https://github.com/SameeraKota/Olist-E-Commerce-Analysis/blob/main/Olist%20Excel%20Dashboard.pdf)
+
+
 ## Project Overview
 We tackled a dataset of 100k orders spanning 2016 to 2018, connecting 8 tables to unveil patterns and insights. Our mission is to act as the bridge between small businesses and their customers. 
 
