@@ -6,6 +6,8 @@ Thrilled to share insights from our recent team project at ExcelR, where we delv
 
 [Excel Dashboard](https://github.com/SameeraKota/Olist-E-Commerce-Analysis/blob/main/Olist%20Excel%20Dashboard.pdf)
 
+[Olist PPT](https://github.com/SameeraKota/Olist-E-Commerce-Analysis/blob/main/OLIST%20FINAL%20PPT.pptx)
+
 
 ## Project Overview
 We tackled a dataset of 100k orders spanning 2016 to 2018, connecting 8 tables to unveil patterns and insights. Our mission is to act as the bridge between small businesses and their customers. 
