@@ -2,7 +2,12 @@
 
 Thrilled to share insights from our recent team project at ExcelR, where we delved into the world of e-commerce data with OLIST STORE headquartered in Sao Paulo, Brazil.
 
-Project Overview: We tackled a dataset of 100k orders spanning 2016 to 2018, connecting 8 tables to unveil patterns and insights. Our mission is to act as the bridge between small businesses and their customers. 
+## Project Overview
+We tackled a dataset of 100k orders spanning 2016 to 2018, connecting 8 tables to unveil patterns and insights. Our mission is to act as the bridge between small businesses and their customers. 
+
+## Data Model
+
+![image](https://github.com/SameeraKota/Olist-E-Commerce-Analysis/assets/151723407/b5a75d98-451e-47c1-867f-ef5e04dd7084)
 
 ## Key Achievements:
 1. Navigated through diverse categorical and numerical columns.
@@ -12,7 +17,7 @@ Project Overview: We tackled a dataset of 100k orders spanning 2016 to 2018, con
 ## Project Phases:
 Data Cleaning: Streamlined the dataset using Excel and Power Query.
 Data Modeling: Crafted fact and dimension tables based on primary and foreign key relationships.
-MySQL Magic: Leveraged MySQL Workbench for in-depth analysis
+MySQL: Leveraged MySQL Workbench for in-depth analysis
 
 Our Power BI report is a visual feast, showcasing a variety of charts and graphs to effectively communicate insights. This not only helped us in our analysis but also served as a powerful tool to present findings to our client.
 Big shoutout to my incredible team at ExcelR for their dedication and expertise throughout this journey. It's amazing what can be achieved when brilliant minds come together.
